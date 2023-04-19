@@ -4,6 +4,7 @@
   "description": "",
   "main": "chatgpt.js",
   "scripts": {
+    "start": "node chatgpt.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
